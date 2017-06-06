@@ -2,7 +2,17 @@
 Air pollution monitoring data in the United State
 
 ## Done
-- 
+- Writing functions
+- Test if a file exists
+- Stop a function with stop() function
+- Loop over a range of integer
+- Load a csv file with **readr package**
+- Delete missing data
+- Get complete.cases values of a data frame
+- caculate mean of a vector
+- Concatenate vectors
+- Get all values of a particular column of a data frame
+- calculate corr of two variables(column with data)
 
 
 ## Part 1: [pollutanmean.R](https://github.com/dassiorleando/ProgrammingAssignment1/blob/master/pollutanmean.R)

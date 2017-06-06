@@ -1,3 +1,6 @@
+# We load the readr package
+library('readr')
+
 ## To get the completely observed cases of a range of monitors
 ## Each monitor is knowing by his id, then his file is also his_id.csv
 ## All these files are located in a specified directory
